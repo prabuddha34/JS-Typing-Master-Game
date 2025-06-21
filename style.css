@@ -1,0 +1,74 @@
+body {
+  background: linear-gradient(120deg, #1e3c72, #2a5298); /* Blue gradient */
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+}
+
+
+
+#heading01{
+    font-size: 70px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    font-family: monospace;
+    
+
+}
+
+#para01{
+    font-size: 34px;
+    color: #ffffff;
+    line-height: 1.6;
+    margin: 20px;
+    font-family: monospace;
+    text-align: center;
+
+}
+
+.container {
+  text-align: center;
+  max-width: 500px;
+  padding: 2rem;
+  background: #333;
+  border-radius: 15px;
+  box-shadow: 0 0 15px #000;
+}
+
+.word {
+  font-size: 2rem;
+  margin: 1rem 0;
+  background-color: #444;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 0.7rem;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  background: #007bff;
+  border: none;
+  color: white;
+  font-size: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
